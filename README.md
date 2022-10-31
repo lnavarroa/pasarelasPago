@@ -7,4 +7,6 @@ Chile
 
 - pagofacil www.pagofacil.cl
 
+- klap www.klap.cl
+
 Internacional
