@@ -12,3 +12,8 @@ Chile
 Internacional
 
 - payoneer https://www.payoneer.com/
+
+
+- Payssion 
+
+- stripe
