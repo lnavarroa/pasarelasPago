@@ -14,6 +14,6 @@ Internacional
 - payoneer https://www.payoneer.com/
 
 
-- Payssion 
+- Payssion https://www.payssion.com/en/index.html
 
 - stripe
